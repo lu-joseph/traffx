@@ -1,12 +1,12 @@
 # traffx
 Traffic simulation with custom road generation
 
-##To run:
+# To run:
 
 - Open TraffX/TraffX.pde
 - Click Run
 
-##To Export Application (only on Windows and Linux):
+# To Export Application (only on Windows and Linux):
 - Open TraffX/TraffX.pde
 - Click File -> Export Application (or use shortcut Ctrl + Shift + E)
 - Select desired settings and click Export
