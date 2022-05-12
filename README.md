@@ -1,4 +1,4 @@
-# traffx
+# TraffX
 Traffic simulation with custom road generation
 
 # To run:
